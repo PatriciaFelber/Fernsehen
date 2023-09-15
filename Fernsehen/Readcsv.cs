@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using System.Linq
 
 namespace Fernsehen;
 class Reader
@@ -12,6 +13,7 @@ class Reader
         {
             Console.WriteLine(line);
         }
+
     }
-    
 }
+    
