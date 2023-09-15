@@ -1,0 +1,15 @@
+/workspaces/Fernsehen/bin/Debug/net7.0/Fernsehen
+/workspaces/Fernsehen/bin/Debug/net7.0/Fernsehen.deps.json
+/workspaces/Fernsehen/bin/Debug/net7.0/Fernsehen.runtimeconfig.json
+/workspaces/Fernsehen/bin/Debug/net7.0/Fernsehen.dll
+/workspaces/Fernsehen/bin/Debug/net7.0/Fernsehen.pdb
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.csproj.AssemblyReference.cache
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.AssemblyInfoInputs.cache
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.AssemblyInfo.cs
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.csproj.CoreCompileInputs.cache
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.dll
+/workspaces/Fernsehen/obj/Debug/net7.0/refint/Fernsehen.dll
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.pdb
+/workspaces/Fernsehen/obj/Debug/net7.0/Fernsehen.genruntimeconfig.cache
+/workspaces/Fernsehen/obj/Debug/net7.0/ref/Fernsehen.dll
